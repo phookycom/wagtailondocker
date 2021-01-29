@@ -2,6 +2,7 @@
 An empty and up-to-date Wagtail project as a Docker environment with PostgreSQL
 
 ### Setup
+1. Generate your Django secret key and put it in .env.dev (Generator: https://djecrety.ir)
 1. Build and run Docker containers:
     ```sh
     $ docker-compose up -d --build
