@@ -9,3 +9,5 @@ postgres_data
 /venv/
 media
 /media/
+.env.dev
+.env.dev.db
