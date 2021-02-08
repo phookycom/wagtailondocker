@@ -11,3 +11,5 @@ media
 /media/
 .env.dev
 .env.dev.db
+.env.prod
+.env.prod.db
